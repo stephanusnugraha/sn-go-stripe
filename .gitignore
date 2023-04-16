@@ -4,3 +4,7 @@ database.yml
 database.yml.example
 run.sh
 run.sh.example
+.air.toml
+Makefile
+dist/
+.vscode
